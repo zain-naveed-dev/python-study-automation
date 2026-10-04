@@ -24,24 +24,3 @@ A collection of Python scripts that calculate math formulas and organize study f
 ```bash
 python file_organizer.py
 python math_calculator.py
-4. Click the green **Commit changes** button.
-
----
-
-### Step 3: Add Topic Tags to Your Repository
-Topic tags make your project searchable on GitHub:
-
-1. Go back to the main page of your repository (`python-study-automation`).
-2. Near the top right (under the "About" section), click the **gear icon** ⚙️.
-3. In the **Topics** field, type and select tags like:
-   * `python`
-   * `automation`
-   * `study-tools`
-   * `beginner-project`
-4. Click **Save changes**.
-
----
-
-Once these three steps are done, your repository will be complete and ready to link directly in your university applications under "Independent Technical Projects."
-
-<FollowUp label="Would you like to learn how to feature this repository on your main GitHub profile page?" query="How do I pin and feature this repository on my main GitHub profile page so visitors see it first?"/>
